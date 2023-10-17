@@ -1,0 +1,27 @@
+body{
+    background-color:aliceblue;
+}
+
+h1{
+    color: blueviolet;
+}
+
+.feature-card{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: antiquewhite;
+}
+
+#special-feature{
+    background-color: cornflowerblue;
+    border-color: burlywood;
+}
+
+.new-card h2::first-letter{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+
+
+}
